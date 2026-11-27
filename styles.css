@@ -1,0 +1,24 @@
+body{
+    
+    text-align: center;
+}
+#input_el{
+    display: block;
+    margin: 0 auto;
+}
+#input_el{
+    margin-top: 20px;
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+#input_button,#delete,#save{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #2adf5d;
+    padding: 5px;
+}
